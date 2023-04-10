@@ -8,7 +8,7 @@ Authors:確定してから
 ## Repository structure
 * `multispecies_analysis` - source code and datasets for Figure 2 and S2
 * `lncrna_analysis` - source code and datasets for Figure 3, 4CD and S4CD
-* `pseudogene_analysis` - ource code and datasets for Figure S3
+* `pseudogene_analysis` - source code and datasets for Figure S3
 
 ## Links
 確定してから
