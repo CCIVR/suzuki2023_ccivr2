@@ -11,4 +11,4 @@ Pairs of sense and antisense transcriptions that are adjacent at their 5′ and 
 * `pseudogene_analysis` - source code and datasets for Figure S3
 
 ## Links
-確定してから
+https://www.nature.com/articles/s41598-023-42044-x
